@@ -4,7 +4,7 @@
     <property name="created">2018-07-22T01:42:38</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-07-22T01:52:33</property>
+    <property name="modified">2018-07-25T00:48:06</property>
     <property name="originalScheme">_@user_Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -746,8 +746,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="333434" />
-        <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
+        <option name="EFFECT_COLOR" value="13fffa" />
+        <option name="ERROR_STRIPE_COLOR" value="13fffa" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -1467,7 +1467,6 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4a3f10" />
         <option name="EFFECT_COLOR" value="f8f8f2" />
         <option name="ERROR_STRIPE_COLOR" value="ebc700" />
         <option name="EFFECT_TYPE" value="1" />
